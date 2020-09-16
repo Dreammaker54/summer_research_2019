@@ -1,2 +1,3 @@
 # summer_research_2019
-For the work of CPS-Rover at SUNY Oswego.
+This repo is for the record-keeping,
+a series of experiement was made to test MarvelMind beacons in a closed space.
